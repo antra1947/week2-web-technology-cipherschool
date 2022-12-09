@@ -1,0 +1,19 @@
+h2,img{
+     border:solid blue; 
+     border-radius:30px;
+    /* border-width:6px;
+       border-style:dotted;    
+       /* ridge,inset,groove,outset   */
+    /* border-color: brown; */
+}
+
+
+div{
+    border:9px solid goldenrod;
+}
+li{
+    border: 5px solid  red; 
+}
+span{
+    border:3px solid turquoise;
+}

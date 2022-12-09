@@ -1,0 +1,47 @@
+/*  style color>id selector>class selector>element  selector */
+
+h1{
+    color:dodgerblue;
+}
+
+.h1class{
+    color:#ffee00;
+}
+
+.heading{
+    color:palevioletred;
+}
+
+/* .h1class{
+    color:#ffee00;
+}
+
+.heading{
+    color:palevioletred;
+} in both who is below they  will have the preference to print that color */
+
+/* #h1id{
+    color:blue ;
+} */
+
+div#container ul.my-songs li{
+    color:aqua;
+    background-color: coral;
+
+}
+
+
+
+/* 0,1,1,3 ---> 113 specificity*/
+div#container ul.my-songs li.favourite{
+    background-color:aqua;
+    color: coral;
+
+}
+
+/* 0,0,1,0 old specificity */
+/* 0,1,2,3 */
+
+
+
+

@@ -1,0 +1,13 @@
+h1{
+    color:hsl(343, 57%, 46%);
+   
+}
+h2{
+    color:aquamarine;
+    background-color: #ff0000;
+}
+/* for red used ff a5 for green 3d blue total=ffa53d-orange */
+/* values from 0,1,2,3,4,5,6,7,8,9,a,b,c,d,e,f */
+h3{
+    color:#ff00ff
+}

@@ -1,0 +1,28 @@
+body{
+    font-family: 'poppins',sans-serif;
+
+
+}
+
+.container{
+    width: 1400px;
+    margin: 0 auto;
+    
+}
+h1{
+    background:rebeccapurple;
+    text-align: center;
+    padding: 15px 0px;
+}
+section.about-me, secction.about-Antra{
+    border: 2px solid#666;
+    padding: 10px;
+}
+
+.about-me{
+    margin-bottom: 50px;
+}
+section h3{
+    text-transform: uppercase;
+    color:forestgreen;
+}

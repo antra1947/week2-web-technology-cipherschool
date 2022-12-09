@@ -1,0 +1,8 @@
+input[type = "text"]{
+    color:beige;
+    background-color: rgb(228, 237, 100);
+}
+
+a[href *= "google"]{
+    color:darkolivegreen;
+}
